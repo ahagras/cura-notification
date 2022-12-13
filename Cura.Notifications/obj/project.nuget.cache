@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B0PSTMoAvpaVKdvvrQZXSfGfclu1sFqXD/UyyLliI8qFDSqTyX0beiAli0VOUYLXLmSPqghWrhWKOVk4YLSMUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aabdelgilil\\source\\repos\\Cura.Notifications\\Cura.Notifications\\Cura.Notifications.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aabdelgilil\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

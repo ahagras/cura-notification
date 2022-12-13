@@ -1,0 +1,12 @@
+C:\Users\aabdelgilil\source\repos\Cura.Notifications\Cura.Notifications\bin\Debug\net7.0\Cura.Notifications.deps.json
+C:\Users\aabdelgilil\source\repos\Cura.Notifications\Cura.Notifications\bin\Debug\net7.0\Cura.Notifications.dll
+C:\Users\aabdelgilil\source\repos\Cura.Notifications\Cura.Notifications\bin\Debug\net7.0\Cura.Notifications.pdb
+C:\Users\aabdelgilil\source\repos\Cura.Notifications\Cura.Notifications\obj\Debug\net7.0\Cura.Notifications.csproj.AssemblyReference.cache
+C:\Users\aabdelgilil\source\repos\Cura.Notifications\Cura.Notifications\obj\Debug\net7.0\Cura.Notifications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aabdelgilil\source\repos\Cura.Notifications\Cura.Notifications\obj\Debug\net7.0\Cura.Notifications.AssemblyInfoInputs.cache
+C:\Users\aabdelgilil\source\repos\Cura.Notifications\Cura.Notifications\obj\Debug\net7.0\Cura.Notifications.AssemblyInfo.cs
+C:\Users\aabdelgilil\source\repos\Cura.Notifications\Cura.Notifications\obj\Debug\net7.0\Cura.Notifications.csproj.CoreCompileInputs.cache
+C:\Users\aabdelgilil\source\repos\Cura.Notifications\Cura.Notifications\obj\Debug\net7.0\Cura.Notifications.dll
+C:\Users\aabdelgilil\source\repos\Cura.Notifications\Cura.Notifications\obj\Debug\net7.0\refint\Cura.Notifications.dll
+C:\Users\aabdelgilil\source\repos\Cura.Notifications\Cura.Notifications\obj\Debug\net7.0\Cura.Notifications.pdb
+C:\Users\aabdelgilil\source\repos\Cura.Notifications\Cura.Notifications\obj\Debug\net7.0\ref\Cura.Notifications.dll

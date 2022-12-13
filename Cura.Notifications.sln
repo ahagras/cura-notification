@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cura.Notifications", "Cura.Notifications\Cura.Notifications.csproj", "{862000C7-DC79-4DCD-AC35-5A1655FACA61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cura.Notifications.WebApp", "Cura.Notifications.WebApp\Cura.Notifications.WebApp.csproj", "{5DDD1860-AE67-4B7E-AC30-38CC6CE84FB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{862000C7-DC79-4DCD-AC35-5A1655FACA61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{862000C7-DC79-4DCD-AC35-5A1655FACA61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{862000C7-DC79-4DCD-AC35-5A1655FACA61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{862000C7-DC79-4DCD-AC35-5A1655FACA61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DDD1860-AE67-4B7E-AC30-38CC6CE84FB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DDD1860-AE67-4B7E-AC30-38CC6CE84FB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DDD1860-AE67-4B7E-AC30-38CC6CE84FB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DDD1860-AE67-4B7E-AC30-38CC6CE84FB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E56A591-584A-4718-A5C1-62CD3CA764F1}
+	EndGlobalSection
+EndGlobal

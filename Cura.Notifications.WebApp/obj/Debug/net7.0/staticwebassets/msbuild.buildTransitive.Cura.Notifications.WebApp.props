@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Cura.Notifications.WebApp.props" />
+</Project>
